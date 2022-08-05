@@ -1,0 +1,19 @@
+header{
+    background-color: cornflowerblue;
+    padding: 80px 80px;
+    color: #fff;
+}
+footer{
+    padding: 80px 80px;
+    background-color: cornflowerblue;
+    color: #fff;
+}
+section{
+    text-align: left;
+    padding: 80px 80px;
+    color: green;
+}
+.article{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
