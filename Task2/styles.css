@@ -1,0 +1,35 @@
+.Title-image{
+    text-align: center;
+    padding: 10px 10px;
+;
+}
+table, tr, td{
+    border: 1px solid black;
+}
+.Table{
+    display: flex;
+    justify-content: center;
+    background-color: cornflowerblue;
+
+    padding: 70px 70px;
+}
+
+.navigation-bar{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: cornflowerblue;
+}
+
+.nav-item{
+    padding: 5px 5px;
+}
+
+
+
+.copyright-h1{
+    text-align: center;
+    color: grey;
+    padding: 80px 80px;
+
+}
