@@ -1,0 +1,22 @@
+p{
+    color: aqua;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  html{
+    width: 75%;
+  }
+/* Universal Selector */
+*{
+    color: blue;
+}
+div h2{
+  color:brown ;
+}
+h1,h2{
+  width: 50%;
+  border: 2px dashed;
+}
